@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "gerber/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "bug-pad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
