@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"SW1,SW2,SW3,SW4","4","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"SW5","1","RotaryEncoder_Switch","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","","${EXCLUDE_FROM_POS_FILES}","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+"U2","1","ER_OLEDM0.91_1x-I2C","","","","","${EXCLUDE_FROM_POS_FILES}","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
