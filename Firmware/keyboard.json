@@ -1,0 +1,41 @@
+{
+    "keyboard_name": "BUGPAD",
+    "manufacturer": "Ayush",
+    "maintainer": "Ayush",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0xBEEF",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "encoder": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP26", "GP27", "GP28", "GP29"]
+        ]
+    },
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP0",
+                "pin_b": "GP1"
+            }
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [0, 3], "x": 3, "y": 0}
+            ]
+        }
+    }
+}
