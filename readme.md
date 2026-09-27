@@ -21,7 +21,7 @@ So you can play hillclimb racing and chrome dino with this bug pad .
  - and a insane 3d case
 
 # CAD MODEL
- first of all thanks to jacube that help me a lot to learn cad in fusion 360 .
+ first of all thanks to  <a href="https://stardance.hackclub.com/@Jacube1234">@Jacube1234</a> that help me a lot to learn cad in fusion 360 .
 
  All cad design is made in fusion 360 
 
@@ -65,7 +65,7 @@ my bugpad usage qmk firmware
   - custom 3d case
 
 # thanks note
- thanks jacube and nemo for you help it mean a lot , thanks a lot.
+ thanks <a href="https://stardance.hackclub.com/@Jacube1234">@Jacube1234</a> and <a href="https://stardance.hackclub.com/@Nemo_Donut">nemo </a>for you help it mean a lot , thanks a lot.
 
 <pre>
   Made with love by Ayush 
