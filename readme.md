@@ -6,7 +6,9 @@ A 4 keys micropad to play hillclimb racing with and a rotatory encoder and a ole
 built for hackclub hackpad mission.
 
 ![bug-pad](https://myimgs.org/storage/images/46826/Screenshot2026-09-27123920.png) 
+ 
 
+ [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/ayush-bug/bug-pad/tree/main/PCB)
 # About
 This is a  micropad , with 4 switches , 1 encoder and a oled display . 
 
